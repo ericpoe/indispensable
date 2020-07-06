@@ -1,6 +1,6 @@
 # indispensable
 
-Software and settings I find indispensable for work and personal use
+Software and settings that I find indispensable for work and personal use
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
