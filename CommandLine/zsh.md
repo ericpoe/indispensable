@@ -1,6 +1,7 @@
 # zsh
 
-> The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. - from wikipedia's [Z shell entry](https://en.wikipedia.org/wiki/Z_shell)
+> The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.
+    - Wikipedia's [Z shell entry](https://en.wikipedia.org/wiki/Z_shell)
 
 * zsh Framework: [Oh My ZSH](https://ohmyz.sh/)
 * zsh Theme: [Powerlevel10K](https://github.com/romkatv/powerlevel10k)
@@ -19,4 +20,3 @@
   * [yarn](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/yarn)
   * [z](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z)
   * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-  
