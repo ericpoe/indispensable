@@ -13,3 +13,18 @@
 * Terminal: [iTerm 2](https://www.iterm2.com/)
 * tmux: [Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
 * tmux manager: [tmuxp](http://tmuxp.git-pull.com/en/latest/about.html)
+
+## Dev
+
+* Python
+  * [Install via pyenv](https://opensource.com/article/19/5/python-3-default-mac#what-to-do)
+    * Add to `.zshrc`:
+
+      ```zsh
+      # Use pyenv global version of Python
+      export PATH="$HOME/.symfony/bin:$PATH"
+      export PYENV_ROOT="$HOME/.pyenv"
+      if command -v pyenv 1>/dev/null 2>&1; then
+        eval "$(pyenv init -)"
+      fi
+      ```
