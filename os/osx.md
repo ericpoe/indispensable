@@ -13,6 +13,7 @@
 * Terminal: [iTerm 2](https://www.iterm2.com/)
 * tmux: [Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
   * tmux manager: [tmuxp](http://tmuxp.git-pull.com/en/latest/about.html)
+* Package Manager: [Homebrew](https://brew.sh/)
 
 ## Dev
 
