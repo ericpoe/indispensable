@@ -14,6 +14,8 @@ I use several different operating systems throughout the course of my day. I wil
 
 [Mac OS X](os/osx.md)
 
+[Windows](os/windows.md)
+
 ## Licensing
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
