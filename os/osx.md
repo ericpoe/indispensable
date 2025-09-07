@@ -17,6 +17,27 @@
 
 ## Dev
 
+* JavaScript
+  * nvm (aka [Node Version Manager](https://github.com/nvm-sh/nvm))
+    1. `brew install nvm`
+    1. Add to `.zprofile`
+
+        ```zsh
+        # You should create NVM's working directory if it doesn't exist:
+        mkdir -p ~/.nvm
+
+        # Add the following to your shell profile e.g. ~/.profile or ~/.zshrc:
+        export NVM_DIR="$HOME/.nvm"
+        [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+        [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+        ```
+    1. Install prefered version of Node in your dev environment
+
+       ```zsh
+       nvm ls-remote --lts # This shows the LTS versions & their names
+       nvm install --lts Iron
+       nvm alias default lts/iron
+       ```
 * PHP
   * [Switching between PHP versions when using Homebrew](https://localheinz.com/articles/2020/05/05/switching-php-versions-when-using-homebrew/)
 * Python
